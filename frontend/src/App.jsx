@@ -13,7 +13,6 @@ import DashboardOrganizer from "./components/Organizer/DashboardOrganizer";
 import DashboardAdmin from "./components/Admin/DashboardAdmin";
 
 import Preferences from "./components/Attendee/Preferences";
-//import EventDashboard from "./components/EventDashboard"; // Import the new component
 import Home from "./pages/Home";
 import Features from "./pages/Features";
 import About from "./pages/About";
