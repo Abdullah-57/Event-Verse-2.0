@@ -66,7 +66,6 @@ router.get("/ticket-sales", getTicketSales);
 
 router.get("/analytics/:organizerId", getEventAnalytics);
 
-// Route to generate QR for payment
 router.post("/generate-qr", generateQrCode);
 
 router.post("/download-analytics", downloadAnalytics);
