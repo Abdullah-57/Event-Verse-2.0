@@ -1,5 +1,4 @@
 import React from "react";
-// import EventSearch from "./components/EventSearch";
 import EventCreation from "./components/Organizer/EventCreation";
 import {
   BrowserRouter as Router,
